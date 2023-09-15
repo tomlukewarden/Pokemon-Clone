@@ -1,0 +1,25 @@
+{
+    "activeFile": "C:/Users/thoma/Downloads/Pellet Town.tmx",
+    "fileStates": {
+        "C:/Users/thoma/Downloads/Pellet Town.tmx": {
+            "scale": 0.4659523809523809,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 420.64384261624946,
+                "y": 241.44098109351057
+            }
+        },
+        "C:/Users/thoma/Downloads/collisionTileset.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/thoma/Downloads/pokemonStyleGameTileset.tsx": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "C:/Users/thoma/Downloads/Pellet Town.tmx"
+    ],
+    "recentFiles": [
+        "C:/Users/thoma/Downloads/Pellet Town.tmx"
+    ]
+}
